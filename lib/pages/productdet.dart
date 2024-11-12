@@ -11,6 +11,7 @@ class Productdet extends StatelessWidget {
       appBar: AppBar(),
       body: Column(
         children: [
+          //edit
           Expanded(
             child: ListView(
               children: [
